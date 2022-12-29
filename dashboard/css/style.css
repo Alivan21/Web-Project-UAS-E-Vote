@@ -1,0 +1,9 @@
+.nav-link,
+.nav-link:focus {
+  color: lightgrey;
+}
+.nav-link:hover,
+.nav-active {
+  color: white;
+  font-weight: bold;
+}
